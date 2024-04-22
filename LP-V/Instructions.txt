@@ -1,0 +1,2 @@
+guys LP-V 9 and 10 assignments are not available so we're trying our best to find them all others are complete.
+to use tghe pynb files just open collab then go to File-> new Notebook -> select upload and select your pynb file your code will be loaded.
